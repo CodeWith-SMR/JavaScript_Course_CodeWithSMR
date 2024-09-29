@@ -2,7 +2,7 @@
 This course offers a comprehensive introduction to JavaScript, covering essential techniques for creating dynamic web pages. Structured lessons and hands-on exercises provide practical learning. The Subject Matter Review (SMR) ensures a strong grasp of key concepts, perfect for beginners in web development.
 
 
-# JavaScript Course - CodeWithSMR
+# JavaScript Course
 
 Welcome to the JavaScript Course! This repository contains various resources and projects designed to enhance your understanding of JavaScript programming. Whether you're a beginner or looking to sharpen your skills, you'll find useful examples and exercises here.
 
